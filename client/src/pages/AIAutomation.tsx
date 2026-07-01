@@ -40,7 +40,7 @@ export default function AIAutomation() {
               </h1>
               
               <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto">
-                Comprehensive artificial intelligence and automation solutions tailored to government and enterprise requirements. Since 2018, CommunityForce has been at the forefront of AI automation for business and government applications, delivering measurable ROI through intelligent process optimization.
+                Comprehensive artificial intelligence and automation solutions tailored to government and enterprise requirements. Since 2018, RapidApplications has been at the forefront of AI automation for business and government applications, delivering measurable ROI through intelligent process optimization.
               </p>
               
               <div className="flex flex-col sm:flex-row gap-4 justify-center pt-4">
@@ -413,12 +413,12 @@ export default function AIAutomation() {
           </div>
         </section>
 
-        {/* Why Choose CommunityForce */}
+        {/* Why Choose RapidApplications */}
         <section className="py-20 bg-muted/30">
           <div className="container">
             <div className="text-center mb-16">
               <h2 className="text-display text-3xl md:text-4xl font-bold text-foreground mb-4">
-                Why Choose CommunityForce for AI Automation
+                Why Choose RapidApplications for AI Automation
               </h2>
               <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
                 Unique combination of federal contracting experience and commercial AI innovation delivering proven results.
@@ -509,7 +509,7 @@ export default function AIAutomation() {
                 Ready to Explore AI Automation for Your Agency?
               </h2>
               <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-                Discover how CommunityForce can help your agency modernize operations, reduce manual processes, and achieve measurable efficiency gains through intelligent automation tailored to federal requirements.
+                Discover how RapidApplications can help your agency modernize operations, reduce manual processes, and achieve measurable efficiency gains through intelligent automation tailored to federal requirements.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Button size="lg" className="bg-accent hover:bg-accent/90 text-accent-foreground" asChild>

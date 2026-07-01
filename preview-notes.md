@@ -1,4 +1,4 @@
-# CommunityForce Website Preview Notes
+# RapidApplications Website Preview Notes
 
 ## Design Implementation Status
 
@@ -29,8 +29,8 @@
 - Integrated Constituent Management (red border) with 3 features
 - Collaboration review illustration displaying full-width
 
-#### Why CommunityForce Section ✓
-- Cost comparison cards (Old Way vs CommunityForce Way)
+#### Why RapidApplications Section ✓
+- Cost comparison cards (Old Way vs RapidApplications Way)
 - Feature comparison table with checkmarks and X marks
 - Proper color coding (destructive red for old way, primary navy for new way)
 - Table showing vendor count comparison (1 vs 1-2 vs 4-6)

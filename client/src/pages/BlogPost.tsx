@@ -27,7 +27,7 @@ export default function BlogPost() {
     if (!post) return;
 
     // Set page title
-    document.title = `${post.title} | CommunityForce Blog`;
+    document.title = `${post.title} | RapidApplications Blog`;
 
     // Set meta description
     const metaDescription = document.querySelector('meta[name="description"]');
@@ -48,7 +48,7 @@ export default function BlogPost() {
       { property: "og:url", content: `${window.location.origin}/blog/${post.slug}` },
       { property: "og:image", content: post.coverImage || `${window.location.origin}/images/og-default.jpg` },
       { property: "article:published_time", content: post.publishedAt ? new Date(post.publishedAt).toISOString() : "" },
-      { property: "article:author", content: "CommunityForce Team" },
+      { property: "article:author", content: "RapidApplications Team" },
     ];
 
     ogTags.forEach(({ property, content }) => {
@@ -96,12 +96,12 @@ export default function BlogPost() {
       "dateModified": post.updatedAt ? new Date(post.updatedAt).toISOString() : "",
       "author": {
         "@type": "Organization",
-        "name": "CommunityForce",
+        "name": "RapidApplications",
         "url": window.location.origin
       },
       "publisher": {
         "@type": "Organization",
-        "name": "CommunityForce",
+        "name": "RapidApplications",
         "url": window.location.origin,
         "logo": {
           "@type": "ImageObject",
@@ -132,7 +132,7 @@ export default function BlogPost() {
 
     // Cleanup function
     return () => {
-      document.title = "CommunityForce";
+      document.title = "RapidApplications";
     };
   }, [post]);
 

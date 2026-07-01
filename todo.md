@@ -1,4 +1,4 @@
-# CommunityForce Website TODO
+# RapidApplications Website TODO
 
 ## Forward Edge-AI Logo Update
 - [x] Replace Forward Edge-AI logo file with updated version
@@ -45,7 +45,7 @@
 - [x] Test ISO logo display on About page
 
 ## Home Page Hero Graphic Update
-- [x] Replace Grant Flow logo with CommunityForce logo in hero section computer screen graphic
+- [x] Replace Grant Flow logo with RapidApplications logo in hero section computer screen graphic
 - [x] Test updated home page hero section
 
 ## Government Services Section Build

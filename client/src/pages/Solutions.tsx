@@ -26,7 +26,7 @@ export default function Solutions() {
               </h1>
               
               <p className="text-lg md:text-xl text-white/90 max-w-3xl mx-auto">
-                From grants and scholarships to fellowships and research programs, CommunityForce delivers end-to-end management solutions tailored to your mission.
+                From grants and scholarships to fellowships and research programs, RapidApplications delivers end-to-end management solutions tailored to your mission.
               </p>
             </div>
           </div>
@@ -205,16 +205,16 @@ export default function Solutions() {
                 Ready to Transform Your Awards Management?
               </h2>
               <p className="text-lg text-white/90 mb-8">
-                See how CommunityForce can streamline your entire operation with one comprehensive platform.
+                See how RapidApplications can streamline your entire operation with one comprehensive platform.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Button size="lg" className="bg-accent hover:bg-accent/90 text-accent-foreground" asChild>
-                  <a href="https://calendly.com/d/cn55-wdb-c65?utm_source=Website&utm_medium=Demo&utm_campaign=Marketing" target="_blank" rel="noopener noreferrer">
+                  <a href="/contact/demo">
                     Book a Demo
                   </a>
                 </Button>
                 <Button size="lg" variant="outline" className="border-white text-white hover:bg-white/10" asChild>
-                  <a href="https://calendly.com/communityforce/communityforce-discovery?utm_source=Website&utm_medium=Discovery%20Call&utm_campaign=Marketing" target="_blank" rel="noopener noreferrer">
+                  <a href="/contact/demo">
                     Talk to an Expert
                   </a>
                 </Button>

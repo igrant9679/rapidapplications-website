@@ -633,7 +633,7 @@ export default function AdminImport() {
               use the standalone Node.js script that can run for hours:
             </p>
             <div className="bg-muted rounded-lg p-4 font-mono text-xs space-y-2">
-              <div>$ cd /home/ubuntu/communityforce-website</div>
+              <div>$ cd /home/ubuntu/rapidapplications-website</div>
               <div>$ node scripts/import-wordpress.mjs https://yoursite.com</div>
             </div>
             <p className="text-xs text-muted-foreground">

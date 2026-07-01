@@ -25,7 +25,7 @@ export default function TalkToExpert() {
       setFormData({ name: "", email: "", organization: "", phone: "", message: "" });
     },
     onError: () => {
-      toast.error("Failed to submit request. Please try again or email sales@communityforce.com directly.");
+      toast.error("Failed to submit request. Please try again or email sales@rapidapplications.com directly.");
     }
   });
 
@@ -60,7 +60,7 @@ export default function TalkToExpert() {
                 </h1>
                 
                 <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-                  Have questions about CommunityForce? Our team of awards management experts is here to help you find the right solution for your organization.
+                  Have questions about RapidApplications? Our team of awards management experts is here to help you find the right solution for your organization.
                 </p>
               </div>
 
@@ -145,7 +145,7 @@ export default function TalkToExpert() {
                         </Button>
 
                         <p className="text-sm text-muted-foreground text-center">
-                          By submitting this form, you agree to be contacted by CommunityForce regarding our products and services.
+                          By submitting this form, you agree to be contacted by RapidApplications regarding our products and services.
                         </p>
                       </form>
                     </CardContent>
@@ -182,8 +182,8 @@ export default function TalkToExpert() {
                       <div className="space-y-2 text-sm">
                         <div>
                           <strong className="text-foreground">Email:</strong>{" "}
-                          <a href="mailto:sales@communityforce.com" className="text-primary hover:underline">
-                            sales@communityforce.com
+                          <a href="mailto:sales@rapidapplications.com" className="text-primary hover:underline">
+                            sales@rapidapplications.com
                           </a>
                         </div>
                       </div>

@@ -40,7 +40,7 @@ describe("contact.submitDemo", () => {
     expect(mockedAxios.post).toHaveBeenCalledWith(
       expect.stringContaining("/v1/notification/send"),
       expect.objectContaining({
-        to: "sales@communityforce.com",
+        to: "sales@rapidapplications.com",
         subject: expect.stringContaining("Demo Request from John Doe"),
         content: expect.stringContaining("John Doe"),
       }),
@@ -91,7 +91,7 @@ describe("contact.submitExpert", () => {
     expect(mockedAxios.post).toHaveBeenCalledWith(
       expect.stringContaining("/v1/notification/send"),
       expect.objectContaining({
-        to: "sales@communityforce.com",
+        to: "sales@rapidapplications.com",
         subject: expect.stringContaining("Expert Consultation Request from Alice Johnson"),
         content: expect.stringContaining("Alice Johnson"),
       }),

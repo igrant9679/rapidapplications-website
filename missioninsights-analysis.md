@@ -3,7 +3,7 @@
 ## Company Overview
 - **Company**: MissionInsights
 - **Product**: Portfolio Lifecycle Management (PfM)
-- **Integration**: Integrated with CommunityForce
+- **Integration**: Integrated with RapidApplications
 - **Target Market**: Federal agencies, US Treasury, enterprise IT portfolio management
 
 ## Core Value Proposition

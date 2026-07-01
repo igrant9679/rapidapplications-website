@@ -31,7 +31,7 @@ export default function EducationManagement() {
             <div className="max-w-4xl mx-auto text-center space-y-8">
               <div className="inline-flex items-center space-x-2 bg-accent/20 text-accent-foreground px-4 py-2 rounded-full text-sm font-medium">
                 <GraduationCap className="h-4 w-4" />
-                <span>EDUCIAN • INTEGRATED WITH COMMUNITYFORCE</span>
+                <span>EDUCIAN • INTEGRATED WITH RAPIDAPPLICATIONS</span>
               </div>
               
               <h1 className="text-display text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
@@ -39,7 +39,7 @@ export default function EducationManagement() {
               </h1>
               
               <p className="text-lg md:text-xl text-primary-foreground/90 max-w-3xl mx-auto">
-                Educian, integrated with CommunityForce, manages the complete student journey from admissions through graduation. Streamline operations, engage parents, and improve student outcomes with our unified platform built specifically for K-12 schools and districts.
+                Educian, integrated with RapidApplications, manages the complete student journey from admissions through graduation. Streamline operations, engage parents, and improve student outcomes with our unified platform built specifically for K-12 schools and districts.
               </p>
               
               <div className="flex flex-col sm:flex-row gap-4 justify-center pt-4">
@@ -116,7 +116,7 @@ export default function EducationManagement() {
                 Complete Student Lifecycle Management
               </h2>
               <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-                CommunityForce manages every stage of the student journey from first inquiry through graduation and alumni engagement—all in one unified platform.
+                RapidApplications manages every stage of the student journey from first inquiry through graduation and alumni engagement—all in one unified platform.
               </p>
             </div>
             
@@ -364,7 +364,7 @@ export default function EducationManagement() {
                         Complete Lifecycle Coverage
                       </h4>
                       <p className="text-muted-foreground">
-                        From first inquiry through alumni engagement, CommunityForce manages every touchpoint in the student journey.
+                        From first inquiry through alumni engagement, RapidApplications manages every touchpoint in the student journey.
                       </p>
                     </div>
                   </div>
@@ -382,7 +382,7 @@ export default function EducationManagement() {
                 Operational Excellence Built-In
               </h2>
               <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-                Beyond student lifecycle management, CommunityForce provides comprehensive financial and workforce management capabilities.
+                Beyond student lifecycle management, RapidApplications provides comprehensive financial and workforce management capabilities.
               </p>
             </div>
             
@@ -468,7 +468,7 @@ export default function EducationManagement() {
           </div>
         </section>
 
-        {/* Why CommunityForce Section */}
+        {/* Why RapidApplications Section */}
         <section className="py-20 bg-background">
           <div className="container">
             <div className="text-center mb-16">
@@ -536,7 +536,7 @@ export default function EducationManagement() {
                 Ready to Transform Your Institution?
               </h2>
               <p className="text-lg text-primary-foreground/90">
-                See how Educian, integrated with CommunityForce, can streamline operations, improve student outcomes, and deliver measurable ROI for your educational institution.
+                See how Educian, integrated with RapidApplications, can streamline operations, improve student outcomes, and deliver measurable ROI for your educational institution.
               </p>
               
               <div className="grid md:grid-cols-2 gap-8 pt-8">

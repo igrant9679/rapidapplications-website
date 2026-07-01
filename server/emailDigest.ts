@@ -82,7 +82,7 @@ function generateDigestEmail(posts: any[], email: string): string {
       (post) => `
     <div style="margin-bottom: 24px; padding-bottom: 24px; border-bottom: 1px solid #e5e7eb;">
       <h2 style="margin: 0 0 8px 0; font-size: 20px; font-weight: 600;">
-        <a href="${process.env.VITE_APP_URL || 'https://communityforce.manus.space'}/blog/${post.slug}" 
+        <a href="${process.env.VITE_APP_URL || 'https://rapidapplications.com'}/blog/${post.slug}" 
            style="color: #1e40af; text-decoration: none;">
           ${post.title}
         </a>
@@ -105,7 +105,7 @@ function generateDigestEmail(posts: any[], email: string): string {
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Weekly Digest - CommunityForce</title>
+  <title>Weekly Digest - RapidApplications</title>
 </head>
 <body style="margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;">
   <div style="max-width: 600px; margin: 0 auto; padding: 40px 20px;">
@@ -115,7 +115,7 @@ function generateDigestEmail(posts: any[], email: string): string {
         Weekly Digest
       </h1>
       <p style="margin: 0; color: #6b7280; font-size: 16px;">
-        Your weekly roundup from CommunityForce
+        Your weekly roundup from RapidApplications
       </p>
     </div>
 
@@ -130,10 +130,10 @@ function generateDigestEmail(posts: any[], email: string): string {
     <!-- Footer -->
     <div style="margin-top: 40px; padding-top: 24px; border-top: 1px solid #e5e7eb; text-align: center; color: #9ca3af; font-size: 14px;">
       <p style="margin: 0 0 12px 0;">
-        You're receiving this because you subscribed to CommunityForce updates.
+        You're receiving this because you subscribed to RapidApplications updates.
       </p>
       <p style="margin: 0;">
-        <a href="${process.env.VITE_APP_URL || 'https://communityforce.manus.space'}/preferences?email=${encodeURIComponent(email)}" 
+        <a href="${process.env.VITE_APP_URL || 'https://rapidapplications.com'}/preferences?email=${encodeURIComponent(email)}" 
            style="color: #6b7280; text-decoration: underline;">
           Manage Preferences
         </a>

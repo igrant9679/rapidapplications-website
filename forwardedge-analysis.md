@@ -35,8 +35,8 @@ Forward Edge-AI is a strategic partner focused on delivering mass-market, humani
 4. **Elder Care** - Senior community support and safety
 5. **Regulated Industries** - Compliance-sensitive sectors
 
-## Integration with CommunityForce
-Forward Edge-AI's humanitarian-oriented AI solutions integrate with CommunityForce to deliver:
+## Integration with RapidApplications
+Forward Edge-AI's humanitarian-oriented AI solutions integrate with RapidApplications to deliver:
 - AI-powered application screening for humanitarian programs
 - Compliance automation for regulated sectors
 - Impact measurement for social responsibility initiatives

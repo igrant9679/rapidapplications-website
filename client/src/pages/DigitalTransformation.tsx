@@ -46,7 +46,7 @@ export default function DigitalTransformation() {
               
               <div className="inline-flex items-center space-x-2 bg-accent/10 text-accent px-4 py-2 rounded-full text-sm font-medium">
                 <Sparkles className="h-4 w-4" />
-                <span>LSI MEDIA LLC • INTEGRATED WITH COMMUNITYFORCE</span>
+                <span>LSI MEDIA LLC • INTEGRATED WITH RAPIDAPPLICATIONS</span>
               </div>
               
               <h1 className="text-display text-4xl md:text-5xl lg:text-6xl font-bold text-foreground leading-tight">
@@ -419,10 +419,10 @@ export default function DigitalTransformation() {
           <div className="container">
             <div className="text-center max-w-3xl mx-auto mb-16">
               <h2 className="text-display text-3xl md:text-4xl font-bold text-foreground mb-4">
-                Partner with CommunityForce
+                Partner with RapidApplications
               </h2>
               <p className="text-lg text-muted-foreground">
-                LSI Media partners with CommunityForce to bring comprehensive digital transformation, AI automation, government services, digital marketing, and creative excellence to organizations seeking to modernize their operations and achieve strategic goals.
+                LSI Media partners with RapidApplications to bring comprehensive digital transformation, AI automation, government services, digital marketing, and creative excellence to organizations seeking to modernize their operations and achieve strategic goals.
               </p>
             </div>
 

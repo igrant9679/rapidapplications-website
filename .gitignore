@@ -106,3 +106,6 @@ temp/
 *.sqlite
 *.sqlite3
 .project-config.json
+
+# Local handoff note — contains live secrets, must never be pushed
+SESSION_HANDOFF.md

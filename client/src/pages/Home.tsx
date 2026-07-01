@@ -42,7 +42,7 @@ export default function Home() {
                 </div>
                 
                 <h1 className="text-display text-4xl md:text-5xl lg:text-6xl font-bold text-foreground leading-tight">
-                  CommunityForce: Your Comprehensive Awards Management Platform
+                  RapidApplications: Your Comprehensive Awards Management Platform
                 </h1>
                 
                 <p className="text-lg md:text-xl text-muted-foreground max-w-2xl">
@@ -50,7 +50,7 @@ export default function Home() {
                 </p>
                 
                 <p className="text-base text-muted-foreground max-w-2xl">
-                  Stop juggling multiple vendors for awards management, constituent engagement, and program promotion. CommunityForce delivers everything you need for scholarships, grants, fellowships, and research programs in a single, secure platform.
+                  Stop juggling multiple vendors for awards management, constituent engagement, and program promotion. RapidApplications delivers everything you need for scholarships, grants, fellowships, and research programs in a single, secure platform.
                 </p>
                 
                 {/* Key Metrics */}
@@ -88,7 +88,7 @@ export default function Home() {
                 >
                   <img 
                     src="/images/hero-dashboard.png" 
-                    alt="CommunityForce Dashboard Interface" 
+                    alt="RapidApplications Dashboard Interface" 
                     className="w-full h-auto transition-opacity group-hover:opacity-90"
                     loading="eager"
                   />
@@ -122,7 +122,7 @@ export default function Home() {
                 Trusted By Leading Organizations
               </h2>
               <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-                Federal agencies, universities, and foundations rely on CommunityForce for mission-critical awards management.
+                Federal agencies, universities, and foundations rely on RapidApplications for mission-critical awards management.
               </p>
             </div>
             
@@ -163,7 +163,7 @@ export default function Home() {
                 The Only AI-Powered Platform That Does It All
               </h2>
               <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-                Most platforms stop at application collection and review. CommunityForce manages your entire operation—from program design through post-award compliance, with built-in tools for constituent engagement and program promotion using AI-Powered tools.
+                Most platforms stop at application collection and review. RapidApplications manages your entire operation—from program design through post-award compliance, with built-in tools for constituent engagement and program promotion using AI-Powered tools.
               </p>
             </div>
             
@@ -267,12 +267,12 @@ export default function Home() {
           </div>
         </section>
 
-        {/* Why CommunityForce Section */}
+        {/* Why RapidApplications Section */}
         <section id="features" className="py-20 bg-muted/30">
           <div className="container">
             <div className="text-center mb-16">
               <h2 className="text-display text-3xl md:text-4xl font-bold text-foreground mb-4">
-                Why Organizations Choose CommunityForce
+                Why Organizations Choose RapidApplications
               </h2>
             </div>
             
@@ -319,7 +319,7 @@ export default function Home() {
                   
                   <Card className="border-2 border-primary/30 bg-primary/5">
                     <CardContent className="p-6">
-                      <div className="text-sm font-bold text-primary mb-4 uppercase tracking-wider">The CommunityForce Way</div>
+                      <div className="text-sm font-bold text-primary mb-4 uppercase tracking-wider">The RapidApplications Way</div>
                       <ul className="space-y-2 text-sm text-muted-foreground">
                         <li className="flex items-start gap-2">
                           <CheckCircle2 className="h-5 w-5 text-primary flex-shrink-0" />
@@ -362,7 +362,7 @@ export default function Home() {
                     <thead className="bg-muted">
                       <tr>
                         <th className="text-left p-4 font-semibold text-foreground">Capability</th>
-                        <th className="text-center p-4 font-semibold text-primary">CommunityForce</th>
+                        <th className="text-center p-4 font-semibold text-primary">RapidApplications</th>
                         <th className="text-center p-4 font-semibold text-muted-foreground">Competitor</th>
                         <th className="text-center p-4 font-semibold text-muted-foreground">Multiple Tools</th>
                       </tr>
@@ -423,7 +423,7 @@ export default function Home() {
                 Built For Your Mission
               </h2>
               <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-                Whether you manage grants, scholarships, fellowships, or research programs, CommunityForce adapts to your specific needs.
+                Whether you manage grants, scholarships, fellowships, or research programs, RapidApplications adapts to your specific needs.
               </p>
             </div>
             
@@ -566,7 +566,7 @@ export default function Home() {
                 Ready to Consolidate Your Operations?
               </h2>
               <p className="text-lg text-primary-foreground/90">
-                See how CommunityForce can replace 4-6 different tools, reduce costs by $20K-$40K annually, and give you complete visibility across your entire awards operation.
+                See how RapidApplications can replace 4-6 different tools, reduce costs by $20K-$40K annually, and give you complete visibility across your entire awards operation.
               </p>
               
               <div className="grid md:grid-cols-2 gap-8 pt-8">
@@ -613,7 +613,7 @@ export default function Home() {
           <div className="relative aspect-video rounded-lg overflow-hidden bg-card">
             <iframe 
               src="https://www.youtube.com/embed/spf7wnkZjXM?autoplay=1" 
-              title="CommunityForce Overview Video" 
+              title="RapidApplications Overview Video" 
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
               className="w-full h-full"

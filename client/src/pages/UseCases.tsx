@@ -26,7 +26,7 @@ export default function UseCases() {
               </h1>
               
               <p className="text-lg md:text-xl text-white/90 max-w-3xl mx-auto">
-                From federal agencies to universities and foundations, organizations rely on CommunityForce to manage their mission-critical awards programs.
+                From federal agencies to universities and foundations, organizations rely on RapidApplications to manage their mission-critical awards programs.
               </p>
             </div>
           </div>
@@ -50,7 +50,7 @@ export default function UseCases() {
                   </div>
                   
                   <p className="text-muted-foreground mb-6">
-                    Federal agencies trust CommunityForce and our partner MissionInsights for secure, compliant grants management and AI-powered IT portfolio lifecycle management that meet the highest standards for data protection, accessibility, and operational excellence.
+                    Federal agencies trust RapidApplications and our partner MissionInsights for secure, compliant grants management and AI-powered IT portfolio lifecycle management that meet the highest standards for data protection, accessibility, and operational excellence.
                   </p>
                   
                   <div className="space-y-4 mb-6">
@@ -113,7 +113,7 @@ export default function UseCases() {
                   </div>
                   
                   <p className="text-muted-foreground mb-6">
-                    Universities use CommunityForce to manage scholarships, research grants, and student emergency funds with streamlined workflows and donor stewardship.
+                    Universities use RapidApplications to manage scholarships, research grants, and student emergency funds with streamlined workflows and donor stewardship.
                   </p>
                   
                   <div className="space-y-4 mb-6">
@@ -168,7 +168,7 @@ export default function UseCases() {
                   </div>
                   
                   <p className="text-muted-foreground mb-6">
-                    Foundations and nonprofits streamline their grantmaking processes, track impact, and engage donors with CommunityForce's comprehensive platform.
+                    Foundations and nonprofits streamline their grantmaking processes, track impact, and engage donors with RapidApplications's comprehensive platform.
                   </p>
                   
                   <div className="space-y-4 mb-6">
@@ -215,7 +215,7 @@ export default function UseCases() {
                   </div>
                   
                   <p className="text-muted-foreground mb-6">
-                    Research institutions manage complex funding programs, peer review processes, and compliance requirements with CommunityForce's specialized tools.
+                    Research institutions manage complex funding programs, peer review processes, and compliance requirements with RapidApplications's specialized tools.
                   </p>
                   
                   <div className="space-y-4 mb-6">
@@ -262,7 +262,7 @@ export default function UseCases() {
                   </div>
                   
                   <p className="text-muted-foreground mb-6">
-                    Organizations in humanitarian, healthcare, financial services, and public safety sectors use CommunityForce with Forward Edge-AI to deliver compliant, secure programs that enhance community safety and social impact.
+                    Organizations in humanitarian, healthcare, financial services, and public safety sectors use RapidApplications with Forward Edge-AI to deliver compliant, secure programs that enhance community safety and social impact.
                   </p>
                   
                   <div className="space-y-4 mb-6">
@@ -319,7 +319,7 @@ export default function UseCases() {
                   </div>
                   
                   <p className="text-muted-foreground mb-6">
-                    Organizations seeking operational excellence use CommunityForce with ARIS process intelligence to optimize awards workflows through digital twins, process mining, and intelligent automation.
+                    Organizations seeking operational excellence use RapidApplications with ARIS process intelligence to optimize awards workflows through digital twins, process mining, and intelligent automation.
                   </p>
                   
                   <div className="space-y-4 mb-6">
@@ -375,7 +375,7 @@ export default function UseCases() {
                   </div>
                   
                   <p className="text-muted-foreground mb-6">
-                    Organizations pursuing digital transformation use CommunityForce with LSI Media to revolutionize awards operations through AI automation while maintaining government-grade compliance and security standards.
+                    Organizations pursuing digital transformation use RapidApplications with LSI Media to revolutionize awards operations through AI automation while maintaining government-grade compliance and security standards.
                   </p>
                   
                   <div className="space-y-4 mb-6">
@@ -431,7 +431,7 @@ export default function UseCases() {
                   </div>
                   
                   <p className="text-muted-foreground mb-6">
-                    K-12 schools and districts use CommunityForce to manage the complete student journey from admissions through graduation with integrated parent engagement.
+                    K-12 schools and districts use RapidApplications to manage the complete student journey from admissions through graduation with integrated parent engagement.
                   </p>
                   
                   <div className="space-y-4 mb-6">
@@ -481,19 +481,19 @@ export default function UseCases() {
           <div className="container">
             <div className="max-w-4xl mx-auto text-center">
               <h2 className="text-display text-3xl md:text-4xl font-bold mb-6">
-                See How CommunityForce Works for Your Organization
+                See How RapidApplications Works for Your Organization
               </h2>
               <p className="text-lg text-white/90 mb-8">
                 Schedule a demo tailored to your specific use case and industry requirements.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Button size="lg" className="bg-accent hover:bg-accent/90 text-accent-foreground" asChild>
-                  <a href="https://calendly.com/d/cn55-wdb-c65?utm_source=Website&utm_medium=Demo&utm_campaign=Marketing" target="_blank" rel="noopener noreferrer">
+                  <a href="/contact/demo">
                     Book a Demo
                   </a>
                 </Button>
                 <Button size="lg" variant="outline" className="border-white text-white hover:bg-white/10" asChild>
-                  <a href="https://calendly.com/communityforce/communityforce-discovery?utm_source=Website&utm_medium=Discovery%20Call&utm_campaign=Marketing" target="_blank" rel="noopener noreferrer">
+                  <a href="/contact/demo">
                     Talk to an Expert
                   </a>
                 </Button>

@@ -1,4 +1,4 @@
-# CommunityForce CMS User Guide
+# RapidApplications CMS User Guide
 
 **Version 1.0 | January 2026**
 
@@ -23,7 +23,7 @@
 
 ## Introduction
 
-The CommunityForce Content Management System (CMS) is a comprehensive platform for managing your organization's web content, built with WordPress-level functionality and modern web technologies. This guide provides detailed instructions for content creators, editors, and administrators to effectively use all features of the system.
+The RapidApplications Content Management System (CMS) is a comprehensive platform for managing your organization's web content, built with WordPress-level functionality and modern web technologies. This guide provides detailed instructions for content creators, editors, and administrators to effectively use all features of the system.
 
 ### What You Can Do
 
@@ -39,7 +39,7 @@ The CMS is a web-based application accessible through modern browsers including 
 
 ### Logging In
 
-Navigate to the CommunityForce website and click the **"Talk to an Expert"** or **"Book a Demo"** button in the header. If you already have an account, you will be redirected to the login portal. Enter your credentials to access the system. Upon successful authentication, you will be redirected to the homepage with access to administrative features based on your role.
+Navigate to the RapidApplications website and click the **"Talk to an Expert"** or **"Book a Demo"** button in the header. If you already have an account, you will be redirected to the login portal. Enter your credentials to access the system. Upon successful authentication, you will be redirected to the homepage with access to administrative features based on your role.
 
 ### Dashboard Overview
 
@@ -319,7 +319,7 @@ Comments support nested replies up to three levels deep. Readers can reply to sp
 
 ### WordPress Import
 
-The WordPress import tool migrates content from existing WordPress sites to the CommunityForce CMS. It transfers posts, pages, categories, tags, and media files while preserving relationships and metadata.
+The WordPress import tool migrates content from existing WordPress sites to the RapidApplications CMS. It transfers posts, pages, categories, tags, and media files while preserving relationships and metadata.
 
 #### Starting an Import
 
@@ -505,7 +505,7 @@ If menu changes do not appear on the frontend, ensure you saved the menu after m
 
 ### Getting Help
 
-For technical support, contact your system administrator or the CommunityForce support team. Provide detailed information about the issue including what you were trying to do, what happened instead, any error messages, and your user role. Include screenshots if possible. Check the audit log (administrators only) to see if any recent changes may have caused the issue.
+For technical support, contact your system administrator or the RapidApplications support team. Provide detailed information about the issue including what you were trying to do, what happened instead, any error messages, and your user role. Include screenshots if possible. Check the audit log (administrators only) to see if any recent changes may have caused the issue.
 
 ### Best Practices
 
@@ -515,9 +515,9 @@ Regularly save your work while editing content to prevent data loss. Use descrip
 
 ## Conclusion
 
-The CommunityForce CMS provides a comprehensive platform for managing your organization's web content with WordPress-level functionality and modern web technologies. This guide covers the essential features and workflows for content creators, editors, and administrators. As you become more familiar with the system, explore advanced features like custom post types, custom fields, and automated workflows to streamline your content management processes.
+The RapidApplications CMS provides a comprehensive platform for managing your organization's web content with WordPress-level functionality and modern web technologies. This guide covers the essential features and workflows for content creators, editors, and administrators. As you become more familiar with the system, explore advanced features like custom post types, custom fields, and automated workflows to streamline your content management processes.
 
-For additional support or questions not covered in this guide, contact your system administrator or the CommunityForce support team.
+For additional support or questions not covered in this guide, contact your system administrator or the RapidApplications support team.
 
 ---
 

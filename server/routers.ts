@@ -578,7 +578,7 @@ export const appRouter = router({
       }))
       .mutation(async ({ input }) => {
         try {
-          // Send email notification to sales@communityforce.com
+          // Send email notification to sales@rapidapplications.com
           const emailContent = `
 New Demo Request
 
@@ -591,14 +591,14 @@ Message:
 ${input.message || 'No message provided'}
 
 ---
-Submitted from CommunityForce Website
+Submitted from RapidApplications Website
           `;
 
           // Use Manus notification API to send email
           await axios.post(
             `${ENV.forgeApiUrl}/v1/notification/send`,
             {
-              to: "sales@communityforce.com",
+              to: "sales@rapidapplications.com",
               subject: `Demo Request from ${input.name} (${input.organization})`,
               content: emailContent
             },
@@ -627,7 +627,7 @@ Submitted from CommunityForce Website
       }))
       .mutation(async ({ input }) => {
         try {
-          // Send email notification to sales@communityforce.com
+          // Send email notification to sales@rapidapplications.com
           const emailContent = `
 New Expert Consultation Request
 
@@ -640,14 +640,14 @@ Message:
 ${input.message}
 
 ---
-Submitted from CommunityForce Website
+Submitted from RapidApplications Website
           `;
 
           // Use Manus notification API to send email
           await axios.post(
             `${ENV.forgeApiUrl}/v1/notification/send`,
             {
-              to: "sales@communityforce.com",
+              to: "sales@rapidapplications.com",
               subject: `Expert Consultation Request from ${input.name} (${input.organization})`,
               content: emailContent
             },

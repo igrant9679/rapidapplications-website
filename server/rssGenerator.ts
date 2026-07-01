@@ -2,8 +2,8 @@ import { getDb } from "./db";
 import { blogPosts, blogCategories, blogTags, blogPostCategories, blogPostTags } from "../drizzle/schema";
 import { eq, desc, and } from "drizzle-orm";
 
-const SITE_URL = process.env.VITE_APP_URL || "https://communityforce.manus.space";
-const SITE_TITLE = "CommunityForce Blog";
+const SITE_URL = process.env.VITE_APP_URL || "https://rapidapplications.com";
+const SITE_TITLE = "RapidApplications Blog";
 const SITE_DESCRIPTION = "Latest insights on awards management, grants, scholarships, and government solutions";
 
 function escapeXml(unsafe: string): string {

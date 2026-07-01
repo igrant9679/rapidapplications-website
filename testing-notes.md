@@ -1,4 +1,4 @@
-# CommunityForce Website Testing Notes
+# RapidApplications Website Testing Notes
 
 ## Date: 2026-01-19
 
@@ -18,7 +18,7 @@
 
 3. **CTA Buttons**
    - "Book a Demo" links to: https://calendly.com/d/cn55-wdb-c65?utm_source=Website&utm_medium=Demo&utm_campaign=Marketing
-   - "Talk to an Expert" links to: https://calendly.com/communityforce/communityforce-discovery?utm_source=Website&utm_medium=Discovery%20Call&utm_campaign=Marketing
+   - "Talk to an Expert" links to: https://calendly.com/rapidapplications/rapidapplications-discovery?utm_source=Website&utm_medium=Discovery%20Call&utm_campaign=Marketing
    - All CTA buttons open in new tabs with proper rel attributes
 
 4. **Subpages Created**
@@ -29,7 +29,7 @@
 
 5. **Footer Links**
    - Internal links route to subpages
-   - External links point to communityforce.com resources
+   - External links point to rapidapplications.com resources
    - All links open in new tabs where appropriate
 
 ### Visual Confirmation

@@ -42,7 +42,7 @@ export default function ProcessIntelligence() {
               
               <div className="inline-flex items-center space-x-2 bg-accent/10 text-accent px-4 py-2 rounded-full text-sm font-medium">
                 <Network className="h-4 w-4" />
-                <span>ARIS • INTEGRATED WITH COMMUNITYFORCE</span>
+                <span>ARIS • INTEGRATED WITH RAPIDAPPLICATIONS</span>
               </div>
               
               <h1 className="text-display text-4xl md:text-5xl lg:text-6xl font-bold text-foreground leading-tight">
@@ -50,7 +50,7 @@ export default function ProcessIntelligence() {
               </h1>
               
               <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto">
-                ARIS, integrated with CommunityForce, delivers AI-powered process intelligence that transforms grants, scholarships, and awards operations through digital twins, process mining, and intelligent automation.
+                ARIS, integrated with RapidApplications, delivers AI-powered process intelligence that transforms grants, scholarships, and awards operations through digital twins, process mining, and intelligent automation.
               </p>
               
               {/* Key Metrics */}
@@ -355,10 +355,10 @@ export default function ProcessIntelligence() {
           <div className="container">
             <div className="text-center max-w-3xl mx-auto mb-16">
               <h2 className="text-display text-3xl md:text-4xl font-bold text-foreground mb-4">
-                Integrated with CommunityForce
+                Integrated with RapidApplications
               </h2>
               <p className="text-lg text-muted-foreground">
-                ARIS process intelligence capabilities seamlessly integrate with CommunityForce's awards management platform to deliver unprecedented operational excellence.
+                ARIS process intelligence capabilities seamlessly integrate with RapidApplications's awards management platform to deliver unprecedented operational excellence.
               </p>
             </div>
 
@@ -481,7 +481,7 @@ export default function ProcessIntelligence() {
                 Ready to Transform Your Awards Operations?
               </h2>
               <p className="text-lg opacity-90">
-                See how ARIS process intelligence, integrated with CommunityForce, can optimize your grants, scholarships, and awards management operations.
+                See how ARIS process intelligence, integrated with RapidApplications, can optimize your grants, scholarships, and awards management operations.
               </p>
               
               <div className="grid md:grid-cols-2 gap-6 pt-4">

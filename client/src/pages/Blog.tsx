@@ -93,7 +93,7 @@ export default function Blog() {
                 <span>INSIGHTS & UPDATES</span>
               </div>
               <h1 className="text-4xl md:text-5xl font-bold text-foreground">
-                CommunityForce Blog
+                RapidApplications Blog
               </h1>
               <p className="text-lg text-muted-foreground">
                 Insights on grants management, scholarships, AI automation, and

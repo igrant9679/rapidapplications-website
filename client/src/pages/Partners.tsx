@@ -26,7 +26,7 @@ export default function Partners() {
               </h1>
               
               <p className="text-lg md:text-xl text-white/90 max-w-3xl mx-auto">
-                CommunityForce partners with leading solution providers to deliver specialized capabilities that extend our core platform and serve diverse markets.
+                RapidApplications partners with leading solution providers to deliver specialized capabilities that extend our core platform and serve diverse markets.
               </p>
             </div>
           </div>
@@ -50,7 +50,7 @@ export default function Partners() {
                   </div>
                   
                   <p className="text-muted-foreground mb-6 text-lg">
-                    <strong>MissionInsights</strong> is our strategic partner for AI-powered IT portfolio management. Integrated with CommunityForce's platform, MissionInsights delivers zero-discrepancy, fully auditable portfolio lifecycle management that transforms reactive administration into proactive, intelligent orchestration for federal agencies and enterprises.
+                    <strong>MissionInsights</strong> is our strategic partner for AI-powered IT portfolio management. Integrated with RapidApplications's platform, MissionInsights delivers zero-discrepancy, fully auditable portfolio lifecycle management that transforms reactive administration into proactive, intelligent orchestration for federal agencies and enterprises.
                   </p>
                   
                   <div className="grid md:grid-cols-2 gap-6 mb-8">
@@ -141,7 +141,7 @@ export default function Partners() {
                   </div>
                   
                   <p className="text-muted-foreground mb-6 text-lg">
-                    <strong>Forward Edge-AI</strong> is our strategic partner for humanitarian-oriented AI solutions. Integrated with CommunityForce's platform, Forward Edge-AI delivers mass-market AI capabilities that enhance safety and security for regulated and critical sectors while maintaining the highest compliance standards.
+                    <strong>Forward Edge-AI</strong> is our strategic partner for humanitarian-oriented AI solutions. Integrated with RapidApplications's platform, Forward Edge-AI delivers mass-market AI capabilities that enhance safety and security for regulated and critical sectors while maintaining the highest compliance standards.
                   </p>
                   
                   <div className="grid md:grid-cols-2 gap-6 mb-8">
@@ -232,7 +232,7 @@ export default function Partners() {
                   </div>
                   
                   <p className="text-muted-foreground mb-6 text-lg">
-                    <strong>ARIS</strong> is our strategic partner for AI-powered process intelligence. Integrated with CommunityForce's platform, ARIS delivers digital twin technology, process mining, and agentic AI that transform awards management operations through continuous process improvement and intelligent automation.
+                    <strong>ARIS</strong> is our strategic partner for AI-powered process intelligence. Integrated with RapidApplications's platform, ARIS delivers digital twin technology, process mining, and agentic AI that transform awards management operations through continuous process improvement and intelligent automation.
                   </p>
                   
                   <div className="grid md:grid-cols-2 gap-6 mb-8">
@@ -312,7 +312,7 @@ export default function Partners() {
                   </div>
                   
                   <p className="text-muted-foreground mb-6 text-lg">
-                    <strong>Educian</strong> is our strategic partner for K-12 education management solutions. Integrated with CommunityForce's platform, Educian delivers complete student lifecycle management from admissions through graduation with integrated parent engagement and operational excellence.
+                    <strong>Educian</strong> is our strategic partner for K-12 education management solutions. Integrated with RapidApplications's platform, Educian delivers complete student lifecycle management from admissions through graduation with integrated parent engagement and operational excellence.
                   </p>
                   
                   <div className="grid md:grid-cols-2 gap-6 mb-8">
@@ -402,7 +402,7 @@ export default function Partners() {
                   </div>
                   
                   <p className="text-muted-foreground mb-6 text-lg">
-                    <strong>LSI Media LLC</strong> is our strategic partner for AI automation and digital transformation. Integrated with CommunityForce's platform, LSI Media delivers AI-powered workflow automation and government-grade compliance solutions that revolutionize awards management operations while meeting the highest federal standards.
+                    <strong>LSI Media LLC</strong> is our strategic partner for AI automation and digital transformation. Integrated with RapidApplications's platform, LSI Media delivers AI-powered workflow automation and government-grade compliance solutions that revolutionize awards management operations while meeting the highest federal standards.
                   </p>
                   
                   <div className="grid md:grid-cols-2 gap-6 mb-8">
@@ -481,7 +481,7 @@ export default function Partners() {
           <div className="container">
             <div className="max-w-4xl mx-auto text-center">
               <h2 className="text-display text-3xl md:text-4xl font-bold mb-6">
-                Interested in Partnering with CommunityForce?
+                Interested in Partnering with RapidApplications?
               </h2>
               <p className="text-lg text-white/90 mb-8">
                 We're always looking for strategic partnerships that bring value to our customers. Let's discuss how we can work together.

@@ -19,8 +19,8 @@ export default function Header() {
         {/* Logo */}
         <Link href="/" className="flex items-center space-x-2">
           <img 
-            src="/images/communityforce-logo.webp" 
-            alt="CommunityForce" 
+            src="/images/rapidapplications-logo.webp" 
+            alt="RapidApplications" 
             className="h-10 w-auto"
           />
         </Link>

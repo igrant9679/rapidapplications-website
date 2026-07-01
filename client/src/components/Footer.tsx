@@ -9,9 +9,9 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Company Info */}
           <div className="space-y-4">
-            <img 
-              src="/images/communityforce-logo.webp" 
-              alt="CommunityForce" 
+            <img
+              src="/images/rapidapplications-logo.webp"
+              alt="RapidApplications"
               className="h-8 w-auto"
             />
             <p className="text-sm text-primary-foreground/80">
@@ -29,24 +29,24 @@ export default function Footer() {
             <h3 className="text-display text-sm font-semibold mb-4 uppercase tracking-wider">Solutions</h3>
             <ul className="space-y-2 text-sm">
               <li>
-                <a href="https://www.communityforce.com/solutions/grants-management/" target="_blank" rel="noopener noreferrer" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
+                <Link href="/solutions/grants" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
                   Grants Management
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="https://www.communityforce.com/solutions/scholarship-management/" target="_blank" rel="noopener noreferrer" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
+                <Link href="/solutions/scholarships" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
                   Scholarships Management
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="https://www.communityforce.com/solutions/fellowship-management/" target="_blank" rel="noopener noreferrer" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
+                <Link href="/solutions/fellowships" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
                   Fellowship Management
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="https://www.communityforce.com/solutions/research-management/" target="_blank" rel="noopener noreferrer" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
+                <Link href="/solutions/research" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
                   Research Management
-                </a>
+                </Link>
               </li>
             </ul>
           </div>
@@ -56,24 +56,24 @@ export default function Footer() {
             <h3 className="text-display text-sm font-semibold mb-4 uppercase tracking-wider">Resources</h3>
             <ul className="space-y-2 text-sm">
               <li>
-                <a href="https://www.communityforce.com/documentation/" target="_blank" rel="noopener noreferrer" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
-                  Documentation
-                </a>
+                <Link href="/features" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
+                  Features
+                </Link>
               </li>
               <li>
-                <a href="https://www.communityforce.com/case-studies/" target="_blank" rel="noopener noreferrer" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
-                  Case Studies
-                </a>
+                <Link href="/use-cases" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
+                  Use Cases
+                </Link>
               </li>
               <li>
-                <a href="https://www.communityforce.com/blog/" target="_blank" rel="noopener noreferrer" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
+                <Link href="/blog" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
                   Blog
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="https://www.communityforce.com/support/" target="_blank" rel="noopener noreferrer" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
+                <Link href="/contact/expert" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
                   Support
-                </a>
+                </Link>
               </li>
             </ul>
           </div>
@@ -88,19 +88,14 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <a href="https://www.communityforce.com/careers/" target="_blank" rel="noopener noreferrer" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
-                  Careers
-                </a>
-              </li>
-              <li>
-                <a href="https://www.communityforce.com/contact/" target="_blank" rel="noopener noreferrer" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
+                <Link href="/contact/expert" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
                   Contact
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="https://www.communityforce.com/privacy-policy/" target="_blank" rel="noopener noreferrer" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
+                <Link href="/privacy-policy" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
                   Privacy Policy
-                </a>
+                </Link>
               </li>
             </ul>
           </div>
@@ -110,18 +105,18 @@ export default function Footer() {
         <div className="mt-12 pt-8 border-t border-primary-foreground/20">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-sm text-primary-foreground/60">
-              © {new Date().getFullYear()} CommunityForce. All rights reserved.
+              © {new Date().getFullYear()} RapidApplications. All rights reserved.
             </p>
             <div className="flex space-x-6 text-sm">
-              <a href="https://www.communityforce.com/terms-of-service/" target="_blank" rel="noopener noreferrer" className="text-primary-foreground/60 hover:text-primary-foreground transition-colors">
+              <Link href="/terms-of-service" className="text-primary-foreground/60 hover:text-primary-foreground transition-colors">
                 Terms of Service
-              </a>
-              <a href="https://www.communityforce.com/privacy-policy/" target="_blank" rel="noopener noreferrer" className="text-primary-foreground/60 hover:text-primary-foreground transition-colors">
+              </Link>
+              <Link href="/privacy-policy" className="text-primary-foreground/60 hover:text-primary-foreground transition-colors">
                 Privacy Policy
-              </a>
-              <a href="https://www.communityforce.com/accessibility/" target="_blank" rel="noopener noreferrer" className="text-primary-foreground/60 hover:text-primary-foreground transition-colors">
+              </Link>
+              <Link href="/accessibility" className="text-primary-foreground/60 hover:text-primary-foreground transition-colors">
                 Accessibility
-              </a>
+              </Link>
             </div>
           </div>
         </div>

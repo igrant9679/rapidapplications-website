@@ -47,7 +47,7 @@ export default function FellowshipsManagement() {
                 Complete Fellowship Lifecycle Management
               </h2>
               <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-                From competitive selection through alumni engagement, CommunityForce provides specialized tools for managing research fellowships, professional development programs, and leadership initiatives.
+                From competitive selection through alumni engagement, RapidApplications provides specialized tools for managing research fellowships, professional development programs, and leadership initiatives.
               </p>
             </div>
 
@@ -107,7 +107,7 @@ export default function FellowshipsManagement() {
                   Purpose-Built for Cohort-Based Programs
                 </h2>
                 <p className="text-lg text-muted-foreground mb-8">
-                  Unlike generic scholarship platforms, CommunityForce is designed specifically for fellowship programs that require cohort management, ongoing engagement, and long-term outcomes tracking.
+                  Unlike generic scholarship platforms, RapidApplications is designed specifically for fellowship programs that require cohort management, ongoing engagement, and long-term outcomes tracking.
                 </p>
                 
                 <div className="space-y-4">
@@ -190,7 +190,7 @@ export default function FellowshipsManagement() {
                 Trusted By Leading Fellowship Programs
               </h2>
               <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-                Universities, research institutions, foundations, and government agencies rely on CommunityForce to manage their competitive fellowship programs.
+                Universities, research institutions, foundations, and government agencies rely on RapidApplications to manage their competitive fellowship programs.
               </p>
             </div>
 

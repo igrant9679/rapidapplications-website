@@ -34,7 +34,7 @@ export default function About() {
             <div className="max-w-4xl mx-auto text-center text-white">
               <div className="inline-flex items-center space-x-2 bg-white/10 px-4 py-2 rounded-full text-sm font-medium mb-6">
                 <Zap className="h-4 w-4" />
-                <span>ABOUT COMMUNITYFORCE</span>
+                <span>ABOUT RAPIDAPPLICATIONS</span>
               </div>
               
               <h1 className="text-display text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
@@ -42,7 +42,7 @@ export default function About() {
               </h1>
               
               <p className="text-lg md:text-xl text-white/90 max-w-3xl mx-auto">
-                Since 2010, CommunityForce has been at the forefront of transforming how government agencies, nonprofits, and enterprises manage awards and grants through our advanced AI-enabled platform.
+                Since 2010, RapidApplications has been at the forefront of transforming how government agencies, nonprofits, and enterprises manage awards and grants through our advanced AI-enabled platform.
               </p>
             </div>
           </div>
@@ -58,7 +58,7 @@ export default function About() {
                 </h2>
                 <div className="space-y-4 text-lg text-muted-foreground">
                   <p>
-                    CommunityForce is at the forefront of transforming how government agencies, nonprofits, and enterprises manage awards and grants through our advanced AI-enabled platform. Our solutions are designed to streamline application workflows, enhance compliance, and ensure security, thereby facilitating transparency and efficiency in program management.
+                    RapidApplications is at the forefront of transforming how government agencies, nonprofits, and enterprises manage awards and grants through our advanced AI-enabled platform. Our solutions are designed to streamline application workflows, enhance compliance, and ensure security, thereby facilitating transparency and efficiency in program management.
                   </p>
                   <p>
                     Founded in 2010, we have processed over 165 million applications and facilitated more than $569 million in awards. Our platform is trusted by leading organizations including the U.S. Air Force, Cybersecurity and Infrastructure Security Agency (CISA), U.S. Office of Personnel Management (OPM), and Harvard University.
@@ -356,7 +356,7 @@ export default function About() {
                   Contract Vehicles & Partnerships
                 </h2>
                 <p className="text-lg text-muted-foreground">
-                  CommunityForce collaborates with various federal agencies through established contract vehicles, enhancing our reach and capabilities.
+                  RapidApplications collaborates with various federal agencies through established contract vehicles, enhancing our reach and capabilities.
                 </p>
               </div>
               
@@ -410,10 +410,10 @@ export default function About() {
           <div className="container">
             <div className="text-center mb-16">
               <h2 className="text-display text-3xl md:text-4xl font-bold mb-4">
-                Why Choose CommunityForce
+                Why Choose RapidApplications
               </h2>
               <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-                CommunityForce is dedicated to excellence, growth, and impact. Our innovative approach not only supports small businesses but also catalyzes transformative successes across multiple sectors.
+                RapidApplications is dedicated to excellence, growth, and impact. Our innovative approach not only supports small businesses but also catalyzes transformative successes across multiple sectors.
               </p>
             </div>
             
@@ -469,7 +469,7 @@ export default function About() {
                   Get in Touch
                 </h2>
                 <p className="text-lg text-muted-foreground">
-                  We'd love to hear from you and discuss how CommunityForce can support your mission.
+                  We'd love to hear from you and discuss how RapidApplications can support your mission.
                 </p>
               </div>
               
@@ -494,16 +494,16 @@ export default function About() {
                     <div>
                       <h3 className="text-display text-xl font-bold mb-4">Schedule a Conversation</h3>
                       <p className="text-muted-foreground mb-6">
-                        Book a demo or speak with our team to learn how CommunityForce can help your organization.
+                        Book a demo or speak with our team to learn how RapidApplications can help your organization.
                       </p>
                       <div className="space-y-3">
                         <Button className="w-full bg-accent hover:bg-accent/90 text-accent-foreground" asChild>
-                          <a href="https://calendly.com/d/cn55-wdb-c65?utm_source=Website&utm_medium=Demo&utm_campaign=Marketing" target="_blank" rel="noopener noreferrer">
+                          <a href="/contact/demo">
                             Book a Demo
                           </a>
                         </Button>
                         <Button variant="outline" className="w-full" asChild>
-                          <a href="https://calendly.com/communityforce/communityforce-discovery?utm_source=Website&utm_medium=Discovery%20Call&utm_campaign=Marketing" target="_blank" rel="noopener noreferrer">
+                          <a href="/contact/demo">
                             Talk to an Expert
                           </a>
                         </Button>

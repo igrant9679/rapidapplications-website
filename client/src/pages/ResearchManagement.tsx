@@ -47,7 +47,7 @@ export default function ResearchManagement() {
                 Complete Research Grant Lifecycle Management
               </h2>
               <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-                From proposal submission through grant closeout, CommunityForce provides specialized tools for managing research grants, ensuring compliance, and tracking research outcomes.
+                From proposal submission through grant closeout, RapidApplications provides specialized tools for managing research grants, ensuring compliance, and tracking research outcomes.
               </p>
             </div>
 
@@ -107,7 +107,7 @@ export default function ResearchManagement() {
                   Built for Research Compliance & Integrity
                 </h2>
                 <p className="text-lg text-muted-foreground mb-8">
-                  CommunityForce understands the unique compliance requirements of research grant management, from IRB protocols to financial reporting, ensuring your institution maintains the highest standards of research integrity.
+                  RapidApplications understands the unique compliance requirements of research grant management, from IRB protocols to financial reporting, ensuring your institution maintains the highest standards of research integrity.
                 </p>
                 
                 <div className="space-y-4">
@@ -188,7 +188,7 @@ export default function ResearchManagement() {
                 Trusted By Leading Research Institutions
               </h2>
               <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-                Universities, medical centers, research institutes, and government labs rely on CommunityForce to manage their research grant portfolios.
+                Universities, medical centers, research institutes, and government labs rely on RapidApplications to manage their research grant portfolios.
               </p>
             </div>
 

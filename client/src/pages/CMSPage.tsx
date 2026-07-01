@@ -21,7 +21,7 @@ export default function CMSPage() {
     if (!page) return;
 
     // Set page title
-    document.title = `${page.title} | CommunityForce`;
+    document.title = `${page.title} | RapidApplications`;
 
     // Set meta description
     const metaDescription = document.querySelector('meta[name="description"]');
@@ -50,7 +50,7 @@ export default function CMSPage() {
 
     // Cleanup function
     return () => {
-      document.title = "CommunityForce";
+      document.title = "RapidApplications";
       // Remove structured data script
       const scripts = document.head.querySelectorAll('script[type="application/ld+json"]');
       scripts.forEach(s => s.remove());

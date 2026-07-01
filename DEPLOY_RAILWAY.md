@@ -24,7 +24,7 @@ committed `pnpm-lock.yaml`, and installs with a frozen lockfile.
 ## Steps
 
 1. **Create the project** — Railway → *New Project* → *Deploy from GitHub repo* →
-   select `igrant9679/communityforce-website`.
+   select `igrant9679/rapidapplications-website`.
 2. **Set environment variables** — in the service's *Variables* tab, add every
    value from `.env.example`. Do **not** set `PORT` (Railway injects it).
    - Reminder: `VITE_*` vars are read at **build time**, so they must be present

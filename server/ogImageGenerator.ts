@@ -37,7 +37,7 @@ export async function generateOGImage(options: {
   const canvas = createCanvas(width, height);
   const ctx = canvas.getContext('2d');
 
-  // Background gradient (CommunityForce brand colors)
+  // Background gradient (RapidApplications brand colors)
   const gradient = ctx.createLinearGradient(0, 0, width, height);
   gradient.addColorStop(0, '#1a1a2e');
   gradient.addColorStop(1, '#16213e');
@@ -51,7 +51,7 @@ export async function generateOGImage(options: {
   // Add logo/brand text
   ctx.fillStyle = '#ffffff';
   ctx.font = 'bold 36px sans-serif';
-  ctx.fillText('CommunityForce', 60, 80);
+  ctx.fillText('RapidApplications', 60, 80);
 
   // Add type badge
   ctx.fillStyle = '#c41e3a';
@@ -105,7 +105,7 @@ export async function generateOGImage(options: {
   // Add footer
   ctx.fillStyle = '#666666';
   ctx.font = '24px sans-serif';
-  ctx.fillText('communityforce.com', 60, height - 40);
+  ctx.fillText('rapidapplications.com', 60, height - 40);
 
   // Convert to buffer
   const buffer = canvas.toBuffer('image/png');

@@ -30,7 +30,7 @@ export default function PortfolioManagement() {
             <div className="max-w-4xl mx-auto text-center space-y-8">
               <div className="inline-flex items-center space-x-2 bg-accent/20 text-accent-foreground px-4 py-2 rounded-full text-sm font-medium">
                 <Network className="h-4 w-4" />
-                <span>MISSIONINSIGHTS • INTEGRATED WITH COMMUNITYFORCE</span>
+                <span>MISSIONINSIGHTS • INTEGRATED WITH RAPIDAPPLICATIONS</span>
               </div>
               
               <h1 className="text-display text-4xl md:text-5xl lg:text-6xl font-bold leading-tight text-primary-foreground">
@@ -38,7 +38,7 @@ export default function PortfolioManagement() {
               </h1>
               
               <p className="text-lg md:text-xl text-primary-foreground/90 max-w-3xl mx-auto">
-                MissionInsights, integrated with CommunityForce, delivers AI-powered, zero-discrepancy, fully auditable portfolio lifecycle management that transforms reactive administration into proactive, intelligent orchestration for federal agencies and enterprises.
+                MissionInsights, integrated with RapidApplications, delivers AI-powered, zero-discrepancy, fully auditable portfolio lifecycle management that transforms reactive administration into proactive, intelligent orchestration for federal agencies and enterprises.
               </p>
               
               <div className="flex flex-col sm:flex-row gap-4 justify-center pt-4">
@@ -524,7 +524,7 @@ export default function PortfolioManagement() {
                 Ready to Transform Your IT Portfolio Management?
               </h2>
               <p className="text-lg text-primary-foreground/90">
-                See how MissionInsights, integrated with CommunityForce, can deliver AI-powered intelligence, zero discrepancies, and proven ROI for your organization.
+                See how MissionInsights, integrated with RapidApplications, can deliver AI-powered intelligence, zero discrepancies, and proven ROI for your organization.
               </p>
               
               <div className="grid md:grid-cols-2 gap-8 pt-8">

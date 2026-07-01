@@ -583,7 +583,7 @@ export default function FederalProjects() {
                 Ready to Partner on Your Next Federal Project?
               </h2>
               <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-                Discover how CommunityForce can support your agency's digital transformation, AI automation, and enterprise modernization initiatives with proven expertise and 100% on-time, on-budget delivery.
+                Discover how RapidApplications can support your agency's digital transformation, AI automation, and enterprise modernization initiatives with proven expertise and 100% on-time, on-budget delivery.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Button size="lg" className="bg-accent hover:bg-accent/90 text-accent-foreground" asChild>

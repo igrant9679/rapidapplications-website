@@ -27,7 +27,7 @@ export function generateBlogPostStructuredData(post: {
     },
     publisher: {
       "@type": "Organization",
-      name: "CommunityForce",
+      name: "RapidApplications",
       logo: {
         "@type": "ImageObject",
         url: `${baseUrl}/logo.png`,
@@ -65,7 +65,7 @@ export function generatePageStructuredData(page: {
     dateModified: page.updatedAt.toISOString(),
     publisher: {
       "@type": "Organization",
-      name: "CommunityForce",
+      name: "RapidApplications",
     },
   };
 }

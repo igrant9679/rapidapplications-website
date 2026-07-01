@@ -47,7 +47,7 @@ export default function ScholarshipsManagement() {
                 Everything You Need for Scholarship Programs
               </h2>
               <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-                From application collection through award disbursement and renewal management, CommunityForce streamlines every aspect of scholarship administration.
+                From application collection through award disbursement and renewal management, RapidApplications streamlines every aspect of scholarship administration.
               </p>
             </div>
 
@@ -107,7 +107,7 @@ export default function ScholarshipsManagement() {
                   Built for High-Volume Scholarship Programs
                 </h2>
                 <p className="text-lg text-muted-foreground mb-8">
-                  Whether you manage 100 or 10,000 applications per cycle, CommunityForce provides the automation and efficiency tools you need to process applications quickly without sacrificing quality.
+                  Whether you manage 100 or 10,000 applications per cycle, RapidApplications provides the automation and efficiency tools you need to process applications quickly without sacrificing quality.
                 </p>
                 
                 <div className="space-y-4">
@@ -161,7 +161,7 @@ export default function ScholarshipsManagement() {
                 Trusted By Leading Institutions
               </h2>
               <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-                Universities, colleges, foundations, and organizations rely on CommunityForce to manage their scholarship programs efficiently and effectively.
+                Universities, colleges, foundations, and organizations rely on RapidApplications to manage their scholarship programs efficiently and effectively.
               </p>
             </div>
 

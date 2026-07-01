@@ -36,7 +36,7 @@ export default function HumanitarianAI() {
               
               <div className="inline-flex items-center space-x-2 bg-white/10 px-4 py-2 rounded-full text-sm font-medium mb-6">
                 <Heart className="h-4 w-4" />
-                <span>INTEGRATED WITH COMMUNITYFORCE</span>
+                <span>INTEGRATED WITH RAPIDAPPLICATIONS</span>
               </div>
               
               <h1 className="text-display text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
@@ -44,7 +44,7 @@ export default function HumanitarianAI() {
               </h1>
               
               <p className="text-lg md:text-xl text-white/90 max-w-3xl mx-auto mb-8">
-                Forward Edge-AI, integrated with CommunityForce, delivers mass-market, humanitarian-oriented AI solutions that enhance safety and security while meeting the highest compliance standards for regulated and critical sectors.
+                Forward Edge-AI, integrated with RapidApplications, delivers mass-market, humanitarian-oriented AI solutions that enhance safety and security while meeting the highest compliance standards for regulated and critical sectors.
               </p>
               
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -315,16 +315,16 @@ export default function HumanitarianAI() {
           </div>
         </section>
 
-        {/* Integration with CommunityForce */}
+        {/* Integration with RapidApplications */}
         <section className="py-20 bg-background">
           <div className="container">
             <div className="max-w-4xl mx-auto">
               <div className="text-center mb-12">
                 <h2 className="text-display text-3xl md:text-4xl font-bold mb-4">
-                  Integrated with CommunityForce
+                  Integrated with RapidApplications
                 </h2>
                 <p className="text-lg text-muted-foreground">
-                  Forward Edge-AI's humanitarian AI capabilities seamlessly integrate with CommunityForce's platform to deliver enhanced functionality for mission-driven organizations.
+                  Forward Edge-AI's humanitarian AI capabilities seamlessly integrate with RapidApplications's platform to deliver enhanced functionality for mission-driven organizations.
                 </p>
               </div>
 
@@ -381,7 +381,7 @@ export default function HumanitarianAI() {
                 Ready to Enhance Your Humanitarian Impact?
               </h2>
               <p className="text-lg text-white/90 mb-8 max-w-2xl mx-auto">
-                See how Forward Edge-AI, integrated with CommunityForce, can deliver AI-powered solutions that enhance safety, security, and social impact for your organization.
+                See how Forward Edge-AI, integrated with RapidApplications, can deliver AI-powered solutions that enhance safety, security, and social impact for your organization.
               </p>
               
               <div className="grid md:grid-cols-2 gap-6 max-w-2xl mx-auto">

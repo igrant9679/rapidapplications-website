@@ -1,4 +1,4 @@
-# CommunityForce Website Design Ideas
+# RapidApplications Website Design Ideas
 
 ## Design Philosophy Exploration
 
@@ -157,7 +157,7 @@
 
 ## Selected Approach: **Federal Modernism**
 
-This approach best aligns with CommunityForce's positioning:
+This approach best aligns with RapidApplications's positioning:
 - **Target Audience**: Federal agencies, universities, foundations—requires trust and authority
 - **Competitive Context**: Submittable/Foundant use soft, friendly designs; we differentiate with confident professionalism
 - **Content Density**: Extensive copy about compliance, features, use cases—needs systematic hierarchy

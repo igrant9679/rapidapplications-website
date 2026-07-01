@@ -149,7 +149,7 @@ export default function SEOMetadataForm({
                   )}
                   <div className="p-4 space-y-2">
                     <p className="text-xs text-muted-foreground uppercase">
-                      communityforce.com
+                      rapidapplications.com
                     </p>
                     <h3 className="font-semibold text-lg line-clamp-2">
                       {ogTitle || "Your post title will appear here"}

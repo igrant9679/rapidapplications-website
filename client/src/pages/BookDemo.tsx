@@ -25,7 +25,7 @@ export default function BookDemo() {
       setFormData({ name: "", email: "", organization: "", phone: "", message: "" });
     },
     onError: (error) => {
-      toast.error("Failed to submit request. Please try again or email sales@communityforce.com directly.");
+      toast.error("Failed to submit request. Please try again or email sales@rapidapplications.com directly.");
       console.error(error);
     }
   });
@@ -61,7 +61,7 @@ export default function BookDemo() {
                 </h1>
                 
                 <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-                  See CommunityForce in action. Schedule a personalized demo with our team to explore how our platform can transform your awards management process.
+                  See RapidApplications in action. Schedule a personalized demo with our team to explore how our platform can transform your awards management process.
                 </p>
               </div>
 
@@ -145,7 +145,7 @@ export default function BookDemo() {
                         </Button>
 
                         <p className="text-sm text-muted-foreground text-center">
-                          By submitting this form, you agree to be contacted by CommunityForce regarding our products and services.
+                          By submitting this form, you agree to be contacted by RapidApplications regarding our products and services.
                         </p>
                       </form>
                     </CardContent>
@@ -182,8 +182,8 @@ export default function BookDemo() {
                       <div className="space-y-2 text-sm">
                         <div>
                           <strong className="text-foreground">Email:</strong>{" "}
-                          <a href="mailto:sales@communityforce.com" className="text-accent hover:underline">
-                            sales@communityforce.com
+                          <a href="mailto:sales@rapidapplications.com" className="text-accent hover:underline">
+                            sales@rapidapplications.com
                           </a>
                         </div>
                       </div>

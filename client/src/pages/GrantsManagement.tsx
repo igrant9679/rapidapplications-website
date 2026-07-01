@@ -48,7 +48,7 @@ export default function GrantsManagement() {
                   Grants Management Product Tour
                 </h2>
                 <p className="text-lg text-muted-foreground">
-                  Join us for a quick 20 minute overview of CommunityForce Grants Management, or jump to sections that most interest you!
+                  Join us for a quick 20 minute overview of RapidApplications Grants Management, or jump to sections that most interest you!
                 </p>
               </div>
               
@@ -56,7 +56,7 @@ export default function GrantsManagement() {
               <div className="relative aspect-video rounded-lg overflow-hidden shadow-2xl border border-border">
                 <iframe 
                   src="https://www.youtube.com/embed/r4h-ZbAry48" 
-                  title="CommunityForce Grants Management Overview" 
+                  title="RapidApplications Grants Management Overview" 
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                   allowFullScreen
                   className="w-full h-full"
@@ -74,7 +74,7 @@ export default function GrantsManagement() {
                 Complete Grant Lifecycle Management
               </h2>
               <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-                From opportunity identification through award closeout, CommunityForce provides the tools federal agencies, foundations, and nonprofits need to manage grants efficiently and compliantly.
+                From opportunity identification through award closeout, RapidApplications provides the tools federal agencies, foundations, and nonprofits need to manage grants efficiently and compliantly.
               </p>
             </div>
 
@@ -134,7 +134,7 @@ export default function GrantsManagement() {
                   Built for Federal Uniform Guidance Compliance
                 </h2>
                 <p className="text-lg text-muted-foreground mb-8">
-                  CommunityForce is designed from the ground up to support federal grant management requirements, including 2 CFR 200 Uniform Guidance compliance, ensuring your organization meets all regulatory obligations.
+                  RapidApplications is designed from the ground up to support federal grant management requirements, including 2 CFR 200 Uniform Guidance compliance, ensuring your organization meets all regulatory obligations.
                 </p>
                 
                 <div className="space-y-4">
@@ -186,7 +186,7 @@ export default function GrantsManagement() {
                 Trusted By Leading Organizations
               </h2>
               <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-                Federal agencies, state governments, foundations, and nonprofits rely on CommunityForce for mission-critical grant management.
+                Federal agencies, state governments, foundations, and nonprofits rely on RapidApplications for mission-critical grant management.
               </p>
             </div>
 

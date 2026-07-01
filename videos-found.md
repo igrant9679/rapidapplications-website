@@ -1,15 +1,15 @@
-# Videos Found on CommunityForce Website
+# Videos Found on RapidApplications Website
 
 ## Grants Management Page
-- **URL**: https://www.communityforce.com/solutions/grants-management/
+- **URL**: https://www.rapidapplications.com/solutions/grants-management/
 - **Video**: YouTube embed
 - **Video ID**: r4h-ZbAry48
 - **Full URL**: https://www.youtube.com/embed/r4h-ZbAry48
-- **Title**: "CommunityForce Grants Management Overview" or "YouTube video player 1"
+- **Title**: "RapidApplications Grants Management Overview" or "YouTube video player 1"
 - **Location**: Product Tour section
 
 ## Homepage
-- **URL**: https://www.communityforce.com/
+- **URL**: https://www.rapidapplications.com/
 - **Video**: The overview video we already have (spf7wnkZjXM) is likely the main one
 - **No additional videos found on homepage**
 
