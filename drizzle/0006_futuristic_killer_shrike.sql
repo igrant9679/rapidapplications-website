@@ -1,0 +1,2 @@
+ALTER TABLE `blog_posts` MODIFY COLUMN `status` enum('draft','published','scheduled','archived') NOT NULL DEFAULT 'draft';--> statement-breakpoint
+ALTER TABLE `blog_posts` ADD `scheduledPublishAt` timestamp;

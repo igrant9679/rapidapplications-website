@@ -1,0 +1,1 @@
+ALTER TABLE `cms_pages` ADD `displayOrder` int DEFAULT 0;

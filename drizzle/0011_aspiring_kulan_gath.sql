@@ -1,0 +1,2 @@
+ALTER TABLE `cms_pages` MODIFY COLUMN `status` enum('draft','published','scheduled','archived') NOT NULL DEFAULT 'draft';--> statement-breakpoint
+ALTER TABLE `cms_pages` ADD `scheduledPublishAt` timestamp;
