@@ -1,6 +1,6 @@
 import { getDb } from "./db";
 import { blogPosts, blogCategories, blogTags, blogPostCategories, blogPostTags } from "../drizzle/schema";
-import { eq, desc, and } from "drizzle-orm";
+import { eq, desc, and, inArray } from "drizzle-orm";
 
 const SITE_URL = process.env.VITE_APP_URL || "https://rapidapplications.com";
 const SITE_TITLE = "RapidApplications Blog";
@@ -94,8 +94,7 @@ export async function generateCategoryRSS(categorySlug: string): Promise<string 
     .where(
       and(
         eq(blogPosts.status, "published"),
-        // @ts-ignore - inArray type issue
-        db.inArray(blogPosts.id, postIds.map(p => p.postId))
+        inArray(blogPosts.id, postIds.map(p => p.postId))
       )
     )
     .orderBy(desc(blogPosts.publishedAt))
@@ -165,8 +164,7 @@ export async function generateTagRSS(tagSlug: string): Promise<string | null> {
     .where(
       and(
         eq(blogPosts.status, "published"),
-        // @ts-ignore - inArray type issue
-        db.inArray(blogPosts.id, postIds.map(p => p.postId))
+        inArray(blogPosts.id, postIds.map(p => p.postId))
       )
     )
     .orderBy(desc(blogPosts.publishedAt))
